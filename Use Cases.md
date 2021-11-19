@@ -15,4 +15,4 @@
 - - Имеют доступ ко всем документам
 
 ## 2.Диаграмма претендентов использования
-![Use Cases](https://drive.google.com/file/d/1T1FJQKZ5Ok4BQvnbZ17gXuKvlvlBj_3u/view?usp=sharing)
+![Use Cases](https://github.com/Astrid-and-Stormy/1984/blob/main/Use%20Cases.drawio.png)
