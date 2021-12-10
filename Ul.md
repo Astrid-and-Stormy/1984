@@ -64,10 +64,10 @@
 ![ER](design/GuestDiagram.drawio.png)
 
 ### Для Прола
-![ER](design/ProleDiagram.drawio.png)
+![ER](design/ProleDiagram2.drawio.png)
 
 ### Для ЧВншП
-![ER](design/IPDiagram.drawio.png)
+![ER](design/IPDiagram2.drawio.png)
 
 ### Для ЧВнтрП
-![ER](design/OPDiagram.drawio.png)
+![ER](design/OPDiagram2.drawio.png)
