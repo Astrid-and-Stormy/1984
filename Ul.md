@@ -61,10 +61,10 @@
 ## 3. Диаграммы Интерфейсов
 
 ### Для гостя
-![ER](design/GuestDiagram3.drawio.png)
+![ER](design/GuestDiagram2.drawio.png)
 
 ### Для Прола
-![ER](design/ProleDiagram2.drawio.png)
+![ER](design/ProleDiagram3.drawio.png)
 
 ### Для ЧВншП
 ![ER](design/IPDiagram3.drawio.png)
