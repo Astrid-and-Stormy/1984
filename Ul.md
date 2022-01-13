@@ -43,7 +43,7 @@
 ![ER](design/Products.drawio.png)
 ![ER](design/tothewar.drawio.png)
 ![ER](design/NewsEditing.drawio.png)
-![ER](design/ProductsDiv.drawio.png)
+![ER](design/ProductsDiv2.drawio.png)
 ![ER](design/ToTheWarRequests.drawio.png)
 ![ER](design/Police.drawio.png)
 
@@ -53,7 +53,7 @@
 ![ER](design/News1984.drawio.png)
 ![ER](design/Products.drawio.png)
 ![ER](design/NewsEditing.drawio.png)
-![ER](design/ProductsDiv.drawio.png)
+![ER](design/ProductsDiv2.drawio.png)
 ![ER](design/ToTheWarRequests.drawio.png)
 ![ER](design/Police.drawio.png)
 
@@ -61,13 +61,13 @@
 ## 3. Диаграммы Интерфейсов
 
 ### Для гостя
-![ER](design/GuestDiagram.drawio.png)
+![ER](design/GuestDiagram3.drawio.png)
 
 ### Для Прола
 ![ER](design/ProleDiagram2.drawio.png)
 
 ### Для ЧВншП
-![ER](design/IPDiagram2.drawio.png)
+![ER](design/IPDiagram3.drawio.png)
 
 ### Для ЧВнтрП
-![ER](design/OPDiagram2.drawio.png)
+![ER](design/OPDiagram3.drawio.png)
